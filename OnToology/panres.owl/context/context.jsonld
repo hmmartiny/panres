@@ -1,0 +1,36 @@
+{
+  "@context" : {
+    "metal_class" : {
+      "@id" : "http://test.org/onto.owl#metal_class",
+      "@type" : "@id"
+    },
+    "fa_name" : {
+      "@id" : "http://test.org/onto.owl#fa_name",
+      "@type" : "@id"
+    },
+    "class" : {
+      "@id" : "http://test.org/onto.owl#class",
+      "@type" : "@id"
+    },
+    "biocide_class" : {
+      "@id" : "http://test.org/onto.owl#biocide_class",
+      "@type" : "@id"
+    },
+    "gene_length" : {
+      "@id" : "http://test.org/onto.owl#gene_length",
+      "@type" : "@id"
+    },
+    "cluster_representative" : {
+      "@id" : "http://test.org/onto.owl#cluster_representative",
+      "@type" : "@id"
+    },
+    "database" : {
+      "@id" : "http://test.org/onto.owl#database",
+      "@type" : "@id"
+    },
+    "resistance_type" : {
+      "@id" : "http://test.org/onto.owl#resistance_type",
+      "@type" : "@id"
+    }
+  }
+}
